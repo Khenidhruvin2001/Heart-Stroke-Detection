@@ -25,12 +25,15 @@ To install and run this project, follow these steps:
    git clone https://github.com/your-username/heart-stroke-detection.git
 
 2.Navigate into the project directory:
+    ```bash
    cd heart-stroke-detection
    
 3.Install the required dependencies:
+   ```bash
    pip install -r requirements.txt
    
 4.Run the project:
+   ```bash
    python stroke_detection.py
 
    ## Conclusion:
