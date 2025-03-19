@@ -23,3 +23,16 @@ To install and run this project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/heart-stroke-detection.git
+
+2.Navigate into the project directory:
+   cd heart-stroke-detection
+   
+3.Install the required dependencies:
+   pip install -r requirements.txt
+   
+4.Run the project:
+   python stroke_detection.py
+
+   ## Conclusion:
+This Heart Stroke Detection project demonstrates how machine learning can be applied to predict stroke risk based on individual health data. By providing a reliable, data-driven tool for early stroke detection, this project has the potential to assist healthcare professionals in making more informed decisions and improving patient outcomes. Feel free to explore the code, contribute, or suggest improvements to further enhance its functionality.
+
