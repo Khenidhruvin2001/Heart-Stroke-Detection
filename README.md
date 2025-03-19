@@ -1,5 +1,3 @@
-# Heart-Stroke-Detection
-
 # Heart Stroke Detection Using Machine Learning
 
 This project utilizes machine learning techniques to predict the likelihood of a stroke occurring in individuals based on various health-related features. By analyzing data such as age, gender, blood pressure, cholesterol levels, heart disease history, and other factors, the model classifies individuals as high or low risk for a stroke.
