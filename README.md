@@ -22,7 +22,7 @@ To install and run this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/heart-stroke-detection.git
+      https://github.com/Khenidhruvin2001/Heart-Stroke-Detection.git
 
 2.Navigate into the project directory: 
    cd heart-stroke-detection
